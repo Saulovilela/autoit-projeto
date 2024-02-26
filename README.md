@@ -1,0 +1,1 @@
+em abrir-app.au3 mudar o path de "C:\Users\Saulo\workspace\projeto-autoit\app\ProjetoQA.exe", "Projeto Teste", 30 para o path do diretorio em que deseja
